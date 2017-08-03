@@ -1,0 +1,39 @@
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.full-screen {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.copyright {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: rgba(255, 255, 255, .3);
+  padding: 1em;
+  display: flex;
+}
+
+.copyright a {
+  text-decoration: underline;
+  color: rgba(255, 255, 255, .3);
+}
+
+.copyright a:hover {
+  transition: .32s ease;
+  color: white;
+}
+
+.copyright .idea {
+  flex: 1;
+}
+
+.copyright .author {
+  flex: 1;
+  text-align: right;
+}

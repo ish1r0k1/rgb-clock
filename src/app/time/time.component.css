@@ -1,0 +1,11 @@
+.time {
+  font-size: 4.375vw;
+  letter-spacing: .03em;
+  text-align: center;
+  color: rgba(255, 255, 255, .3);
+  text-transform: uppercase;
+}
+
+.time > .hours,
+.time > .minutes,
+.time > .seconds { color: white; }
