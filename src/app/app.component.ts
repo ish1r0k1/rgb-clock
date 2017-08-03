@@ -13,7 +13,7 @@ import { ClockService } from './clock.service';
         </div>
         <div class="copyright">
           <div class="idea">Inspiration by <a target="_blank" href="http://www.jacopocolo.com/hexclock/">Hex clock</a></div>
-          <div class="author">Create by <a target="_blank" href="https://github.com/ish1r0k1">@ish1r0k1</a></div>
+          <div class="author">Created by <a target="_blank" href="https://github.com/ish1r0k1">@ish1r0k1</a></div>
         </div>
       </app-background>
     </div>
